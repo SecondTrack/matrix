@@ -1,0 +1,9 @@
+Package: de.mesh.matrix
+Name: Matrix
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Nativer Matrix-Chat-Client fuer iOS 6 (eigenes TLS, matrix.org)
+Maintainer: Second Track
+Author: Second Track
+Section: Social
+Depends: firmware (>= 6.0)

@@ -1,0 +1,30 @@
+// Matrix — Deutsch
+
+// Login UI
+"Sign In" = "Anmelden";
+"Register" = "Registrieren";
+"Homeserver (matrix.org)" = "Homeserver (matrix.org)";
+"Username (e.g. alice)" = "Benutzer (z. B. alice)";
+"Password" = "Passwort";
+"Enter username and password" = "Benutzer und Passwort eingeben";
+"Failed" = "Fehlgeschlagen";
+
+// Rooms / Chat UI
+"Chats" = "Chats";
+"Sign Out" = "Abmelden";
+"Chat" = "Chat";
+"Message" = "Nachricht";
+"Send" = "Senden";
+
+// Status / error messages
+"Login failed" = "Login fehlgeschlagen";
+"No response (HTTP %d)" = "Keine Antwort (HTTP %d)";
+"This server requires a captcha/email to register (not possible in the app). Use a homeserver with open registration — or register once in a browser (app.element.io) and sign in here with username + password." = "Dieser Server verlangt Captcha/E-Mail zur Registrierung (geht in der App nicht). Nimm einen Homeserver mit offener Registrierung — oder registrier dich einmal im Browser (app.element.io) und melde dich hier mit Nutzer+Passwort an.";
+"Registration failed (HTTP %d)" = "Registrierung fehlgeschlagen (HTTP %d)";
+"Registration: too many steps" = "Registrierung: zu viele Schritte";
+
+// Media / encrypted message placeholders (emoji stays, words translate)
+"🔒 encrypted (E2E coming later)" = "🔒 verschlüsselt (E2E kommt später)";
+"🖼 Image" = "🖼 Bild";
+"📎 File" = "📎 Datei";
+"🎵 Audio" = "🎵 Audio";

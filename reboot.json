@@ -1,0 +1,16 @@
+{
+  "id": "matrix",
+  "name": "Matrix",
+  "short": "Chatten über Matrix",
+  "category": "Kommunikation",
+  "status": "beta",
+  "ios": [
+    "6.1.6"
+  ],
+  "package": "de.mesh.matrix",
+  "version": "0.1.0",
+  "repo": "SecondTrack/matrix",
+  "requires": "Matrix-Konto",
+  "license": "GPL-3.0",
+  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+}
