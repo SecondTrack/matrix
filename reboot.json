@@ -1,5 +1,5 @@
 {
-  "id": "matrix",
+  "id": "weave",
   "name": "Weave",
   "short": "Chat over Matrix",
   "category": "Communication",
@@ -9,7 +9,7 @@
   ],
   "package": "de.mesh.matrix",
   "version": "0.1.2",
-  "repo": "SecondTrack/matrix",
+  "repo": "SecondTrack/weave",
   "requires": "Matrix-Konto",
   "license": "GPL-3.0",
   "install": "GitHub release: latest release, *.deb asset",
