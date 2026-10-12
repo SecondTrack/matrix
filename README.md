@@ -1,4 +1,4 @@
-# Matrix
+# Weave
 
 **A small native Matrix chat client for iOS 6.**
 
