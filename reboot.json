@@ -1,8 +1,8 @@
 {
   "id": "matrix",
   "name": "Matrix",
-  "short": "Chatten über Matrix",
-  "category": "Kommunikation",
+  "short": "Chat over Matrix",
+  "category": "Communication",
   "status": "beta",
   "ios": [
     "6.1.6"
@@ -12,5 +12,22 @@
   "repo": "SecondTrack/matrix",
   "requires": "Matrix-Konto",
   "license": "GPL-3.0",
-  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+  "install": "GitHub release: latest release, *.deb asset",
+  "bundle": "de.mesh.matrix",
+  "text": "A real Matrix client: sign in at matrix.org or your own server, open rooms, write messages. Encrypted rooms will follow.",
+  "features": [
+    "Sign in at matrix.org or your own server",
+    "Rooms and direct messages",
+    "Send and receive messages in real time"
+  ],
+  "icon": "https://raw.githubusercontent.com/SecondTrack/matrix/main/Resources/Icon@2x.png",
+  "private": false,
+  "short_de": "Chatten über Matrix",
+  "category_de": "Kommunikation",
+  "text_de": "Echter Matrix-Client: bei matrix.org oder deinem eigenen Server anmelden, Räume öffnen, Nachrichten schreiben. Verschlüsselte Räume folgen.",
+  "features_de": [
+    "Anmelden bei matrix.org oder eigenem Server",
+    "Räume und Direktnachrichten",
+    "Nachrichten senden und empfangen in Echtzeit"
+  ]
 }
