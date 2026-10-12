@@ -15,7 +15,7 @@
     UIViewController*root=[MXClient isLoggedIn]?[[MXRoomsController alloc] init]:[[MXLoginController alloc] init];
     UINavigationController*nav=[[UINavigationController alloc] initWithRootViewController:root];
     [nav.navigationBar setBackgroundImage:MXSolid(MGRN) forBarMetrics:UIBarMetricsDefault];
-    [nav.navigationBar setShadowImage:MXSolid([UIColor colorWithWhite:0 alpha:0.12])];
+    if ([nav.navigationBar respondsToSelector:@selector(setShadowImage:)]) [nav.navigationBar setShadowImage:MXSolid([UIColor colorWithWhite:0 alpha:0.12])];   // erst ab iOS 6
     nav.navigationBar.tintColor=[UIColor whiteColor];
     nav.navigationBar.titleTextAttributes=@{ UITextAttributeTextColor:[UIColor whiteColor],
                                              UITextAttributeTextShadowColor:[UIColor clearColor],

@@ -18,7 +18,7 @@ There is no Matrix app for iOS 6 and Element's web client is far too heavy for o
 
 ## Runs on
 
-iOS 6.1.6 · jailbroken iPod touch 4
+iOS 5.0 to 6.1 · jailbroken iPod touch 3G and 4G (iOS 5 not yet tested on a device)
 
 ## Install
 
